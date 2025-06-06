@@ -46,7 +46,6 @@ Visualization: Generate scatter plots to visualize the transformed images.
   
 ## Learning Outcomes
 
-
 - Gained proficiency in transforming physical drawings into digital datasets.
 - Enhanced skills in data cleansing and structuring using pandas and NumPy.
 - Applied matrix algebra to perform image transformations.
