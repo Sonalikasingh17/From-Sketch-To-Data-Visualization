@@ -6,7 +6,6 @@ This project is part of the DA5401 Data Analytics Laboratory course at IIT Madra
 
 ## Objectives
 
-
 Data Acquisition: Convert a hand-drawn sketch into a set of X-Y coordinates.
   
 Data Cleansing & Loading: Process and structure the data for analysis.
