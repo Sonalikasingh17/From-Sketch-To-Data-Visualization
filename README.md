@@ -70,7 +70,7 @@ Visualization: Generate scatter plots to visualize the transformed images.
 - Replace the sample sketch image with your own to experiment with different drawings.
 - Adjust the matrix size in the discretization step for varying image resolutions.
 
-  
+
 ## Repository Contents
 
 - data/: Contains the original CSV data extracted from the sketch.
