@@ -73,7 +73,6 @@ Visualization: Generate scatter plots to visualize the transformed images.
   
 ## Repository Contents
 
-
 - data/: Contains the original CSV data extracted from the sketch.
 - notebooks/: Jupyter Notebooks detailing each step of the process.
 - images/: Visualizations of the original, rotated, and flipped sketches.
