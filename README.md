@@ -55,7 +55,6 @@ Visualization: Generate scatter plots to visualize the transformed images.
   
 ## How to Use This Repository
 
-
 1. Prerequisites:
 
 - Python 3.x
