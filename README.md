@@ -5,7 +5,7 @@
 This project is part of the DA5401 Data Analytics Laboratory course at IIT Madras.This project is a hands-on exploration of the data science pipeline, transforming a hand-drawn sketch into a digital dataset, applying matrix operations, and visualizing the results. The assignment encompasses data acquisition, cleansing, transformation, and visualization without relying on advanced image processing libraries.
  
 ## Objectives
-
+ 
 Data Acquisition: Convert a hand-drawn sketch into a set of X-Y coordinates. 
 
 Data Cleansing & Loading: Process and structure the data for analysis.
