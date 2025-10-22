@@ -10,7 +10,7 @@ df=pd.read_csv("Pigeon.csv")
 df
 
 # Data Cleaning
-df.columns=['x','y']
+df.columns=['x','y'] 
 sns.scatterplot(data=df, x='y',y='x')
 
 df.describe()
